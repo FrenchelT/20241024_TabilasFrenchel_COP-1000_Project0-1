@@ -15,6 +15,7 @@ def menu():
         print("********************************")
         print("AutoCountry Vehicle Finder v0.1")
         print("********************************")
+        print(" ")
         print("Please Enter the following number below from the following menu:")
         print("1. Print all Authorized Vehicles")
         print("2. Exit")
